@@ -17,6 +17,7 @@ public class Prova_alberto {
     public static void main(String[] args) {
         //CASTELLANO
         System.out.println("Hola Mundo");
+        System.out.println("Castellano");
     }
     
 }
