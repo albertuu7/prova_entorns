@@ -15,7 +15,8 @@ public class Prova_alberto {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        //VALENCIÀ
+        System.out.println("Hola Mon");
     }
     
 }
